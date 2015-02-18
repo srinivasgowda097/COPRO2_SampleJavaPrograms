@@ -1,6 +1,7 @@
 
 
 	public void fly() {
-		System.out.println( "birds fly" );
+//comments
+System.out.println( "birds fly" );
 	}
 }
