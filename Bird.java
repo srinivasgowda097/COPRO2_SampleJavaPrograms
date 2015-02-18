@@ -1,5 +1,3 @@
-public class Bird {
-
 	protected String birdName;
 
 	public void fly() {
