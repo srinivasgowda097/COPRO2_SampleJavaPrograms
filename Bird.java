@@ -1,5 +1,5 @@
 
 
-	public void flySystem.out.println( "birds fly" );
+	//commentspublic void flySystem.out.println( "birds fly" );
 	}
 }
